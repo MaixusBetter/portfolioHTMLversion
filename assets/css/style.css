@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: black;
+}
+
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    align-items: center;
+}
+
+.header h1{
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.header nav ul{
+    padding: 70px 0;
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    float: right;
+    position: relative;
+   
+}
+
+.header ul{
+    margin-top: -350px;
+}
+
+.header li{
+    text-align: center;
+    justify-content: space-between;
+    padding: 60px;
+}
+
+@media screen and (max-width: 768px) {
+    .header ul{
+      flex-direction: column;
+      position:relative;
+      margin-top: 0px;
+
+    }
+  }
