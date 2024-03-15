@@ -1,4 +1,4 @@
-# 01 INCREASING ACCESABILITY OF HORISEON WEBSITE
+# 01 Ny First Website: Portfolio Project
 
 ## Table of Contents
 
@@ -10,66 +10,42 @@
 
 ### Section 1: About This Project
 
-Challenge 1, the Horiseon increase of accesbility project is about making the webpage more accesible; which means to increase screen reader support, through the use of HTML Semantics.
+Challenge 2, the Portfolio project culminates all HTML & CSS learned during the EDX University of Toronto Bootcamp. This is  a prototype of the eventual portfolio that will be made later in the EDX University of Toronto Bootcamp.
 
 ### Section 2: Getting Started
 
-To start on the project all HTML div statements must be replaced by their respective HTML Semantics, and all images given an alt, and replace the coressponding .CSS code.
+Building my website required 3 key elements, Wireframing, Programming, and Mobile Version Porting.
 
-**What are the Replacements:**
+**What are the 3 Key Elements**
 
-HTML Semantics:
+Wireframing:
 
-Statments that describe the kind of content being read by a Screen-Reader they guide the reader's focus.
-
-(eg.)
-
-header
-
-nav- Handles a the website navigation bar
-
-section- Creates a section where objects  may be placed. 
-
-article
-
-aside- Everything in the side bar, that is not the main focuse of a page.
-
-footer
-
+This project required me to make concept art for the website's design the final version was inspired by Michael Jackson's "Invincible"  album cover art.
+I designed all website branding by myself in Adobe Photoshop, as required to match my desired aesthetic.
 
 ```
-Alt:
-Text describing an image that is displayed if an image does not display on the browser.
+Programming:
+relying on the given documentation, and further research I was able to find all the pieces of code to make my design choices work.
 ```
 ```
-Changing CSS:
-In order to apply the same visual properties, as the div statements, the new Semantic statements must be assigned as the parent of the visual property's class.
+Mobile Version Porting:
+This involved me re-sizing the elements on the page to fit on a smaller screen and removing elements to improve the mobile experience.
+This is the first time I have written a program that is made to work on several devices, and it was interesting to work within the limitations presented by smartphones. 
 ```
 
 ### Section 3:Changes Made
 
 Changes made by order of deployment:
 
->Div representing header is replaced by Header HTML Semantic. (03/04/2024)
+>Wire Framing and Graphis Work Completed.(03/10/2024)
 
->Alts are given to to all the images displayed. (03/04/2024)
+>Website Navigation programmed.(03/11/2024)
 
->All Divs representing sections are replaced with Section HTML Semantic. (03/04/2024)
+>Visuals and content created. (03/12/2024)
 
->Articles are defined with HTML Semantic statement. (03/04/2024)
+>Final Debugged Navigation system installed. (03/13/2024)
 
->Aside HTML Semantic statement used on sidebar. (03/04/2024)
-
->CSS Classes are re-assigned to HTML Semantic parents. (03/04/2024)
-
->All comments desicribing program functions written. (03/05/2024)
-
->README.md is completed and pushed to Github alongside the rest of the project.(03/05/2024)
-
-
-
-
-![Final Result](./Assets/01-html-css-git-homework-demo.png)
+>Final Content and Visual Installed Project is Submitted (03/14/2024)
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
